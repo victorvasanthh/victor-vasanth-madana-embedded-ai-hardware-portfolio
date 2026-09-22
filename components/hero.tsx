@@ -35,7 +35,7 @@ export function Hero() {
             <span key={area} className="flex items-center gap-3">
               {i > 0 ? (
                 <span className="text-border" aria-hidden="true">
-                  /
+                  •
                 </span>
               ) : null}
               {area}

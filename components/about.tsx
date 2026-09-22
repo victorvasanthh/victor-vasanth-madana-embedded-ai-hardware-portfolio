@@ -3,7 +3,7 @@ import { Reveal } from '@/components/reveal'
 
 const highlights = [
   { value: '2', label: 'IEEE-published applied-AI papers' },
-  { value: '3', label: 'AI-agent hardware benchmarks authored' },
+  { value: '3', label: 'AI-agent benchmark contributions' },
   { value: '875×', label: 'FPGA speedup over software baseline' },
   { value: '~90%', label: 'Accuracy on cardiovascular detection model' },
 ]
