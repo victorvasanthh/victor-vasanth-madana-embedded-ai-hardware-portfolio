@@ -62,7 +62,7 @@ export function Contact() {
           </a>
 
           <a
-            href="https://linkedin.com/in/madana-victor-vasanth"
+              href="https://linkedin.com/in/madanavictorvasanth"
             target="_blank"
             rel="noopener noreferrer"
             className="group flex flex-col items-center gap-3 rounded-xl border border-border bg-card p-6 text-center transition-colors hover:border-primary/40"
@@ -74,7 +74,7 @@ export function Contact() {
               LinkedIn
             </span>
             <span className="inline-flex items-center gap-1 text-sm text-foreground">
-              madana-victor-vasanth
+              madanavictorvasanth
               <ArrowUpRight className="h-3.5 w-3.5 text-muted-foreground" />
             </span>
           </a>

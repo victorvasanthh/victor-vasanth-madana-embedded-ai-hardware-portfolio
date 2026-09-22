@@ -80,7 +80,7 @@ export function SiteNav() {
         </ul>
 
         <a
-          href="https://linkedin.com/in/madana-victor-vasanth"
+          href="https://linkedin.com/in/madanavictorvasanth"
           target="_blank"
           rel="noopener noreferrer"
           className="hidden rounded-md border border-border bg-secondary/60 px-4 py-2 text-sm font-medium text-foreground transition-colors hover:border-primary/50 hover:text-primary md:inline-flex"
@@ -115,7 +115,7 @@ export function SiteNav() {
             ))}
             <li>
               <a
-                href="https://linkedin.com/in/madana-victor-vasanth"
+                href="https://linkedin.com/in/madanavictorvasanth"
                 target="_blank"
                 rel="noopener noreferrer"
                 onClick={() => setOpen(false)}
